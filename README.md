@@ -9,4 +9,6 @@ This repository contains the scripts and dofiles I employ to extract, clean and 
 
 00d.Match_charactr.ipynb: Merges the speech data with information about each senator: Party, State, Political index.
 
+29-11-1979.txt: This is an example of my raw txt data after being extracted with PyTesseract.
+
 
